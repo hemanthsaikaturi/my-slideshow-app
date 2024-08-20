@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hemanthsaikaturi/my-slideshow-app/static/css/main.94b65a0a.css",
+    "main.js": "/hemanthsaikaturi/my-slideshow-app/static/js/main.33bf3a4d.js",
+    "static/js/453.df75458b.chunk.js": "/hemanthsaikaturi/my-slideshow-app/static/js/453.df75458b.chunk.js",
+    "index.html": "/hemanthsaikaturi/my-slideshow-app/index.html",
+    "main.94b65a0a.css.map": "/hemanthsaikaturi/my-slideshow-app/static/css/main.94b65a0a.css.map",
+    "main.33bf3a4d.js.map": "/hemanthsaikaturi/my-slideshow-app/static/js/main.33bf3a4d.js.map",
+    "453.df75458b.chunk.js.map": "/hemanthsaikaturi/my-slideshow-app/static/js/453.df75458b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94b65a0a.css",
+    "static/js/main.33bf3a4d.js"
+  ]
+}
